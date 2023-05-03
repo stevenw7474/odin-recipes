@@ -1,0 +1,40 @@
+h1 {font-size: 36px;
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {text-align: left;
+    color: brown;
+}
+
+p {font-size: 24px;
+    color: darkgreen;
+    text-align: left;
+}
+
+.ingredients {
+    color: chartreuse;
+    text-align: center;
+}
+
+.large-brisket {
+    height: auto;
+    width: 200px;
+}
+
+li {font-style: italic;
+}
+
+.set {font-size: 36px;
+    font-weight: bold;
+    color: greenyellow;
+    text-align: center;
+}
+
+.pug {height:auto;
+    width: 400px;}
+
+.bud {text-align: center;}
+
+.header {text-align: center;
+color: purple;}
